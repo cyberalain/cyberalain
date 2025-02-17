@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/inalain-ade-anye-746804245/">Alain Anye</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/alain-ade-anye-746804245/">Alain Anye</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 Passionate about cybersecurity, I thrive on solving complex security challenges through hands-on projects. From vulnerability management and threat detection to incident response and automation, I continuously explore innovative ways to enhance security operations.
 
